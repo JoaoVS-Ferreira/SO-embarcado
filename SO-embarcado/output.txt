@@ -1,0 +1,95 @@
+Ordem em que os processos foram executados(PBS): 
+P0 PBS Tempo atual: 5
+P1 PBS Tempo atual: 14
+P2 PBS Tempo atual: 28
+P10 PBS Tempo atual: 30
+P16 PBS Tempo atual: 35
+P6 PBS Tempo atual: 39
+P8 PBS Tempo atual: 44
+P15 PBS Tempo atual: 46
+P19 PBS Tempo atual: 55
+P11 PBS Tempo atual: 58
+P13 PBS Tempo atual: 61
+P4 PBS Tempo atual: 66
+P7 PBS Tempo atual: 73
+P12 PBS Tempo atual: 81
+P17 PBS Tempo atual: 86
+P18 PBS Tempo atual: 91
+P5 PBS Tempo atual: 99
+P9 PBS Tempo atual: 110
+P3 PBS Tempo atual: 115
+P14 PBS Tempo atual: 126
+
+
+Ordem em que os processos foram executados(MQ): 
+P0 MQ-2 Duracao: 3  Tempo atual: 2
+P1 MQ-0 Duracao: 7  Tempo atual: 4
+P1 MQ-0 Duracao: 5  Tempo atual: 6
+P1 MQ-0 Duracao: 3  Tempo atual: 8
+P1 MQ-0 Duracao: 1  Tempo atual: 10
+P1 MQ-0 Duracao: -1  Tempo atual: 11
+P6 MQ-1 Duracao: 2  Tempo atual: 13
+P2 MQ-0 Duracao: 12  Tempo atual: 15
+P2 MQ-0 Duracao: 10  Tempo atual: 17
+P2 MQ-0 Duracao: 8  Tempo atual: 19
+P2 MQ-0 Duracao: 6  Tempo atual: 21
+P2 MQ-0 Duracao: 4  Tempo atual: 23
+P2 MQ-0 Duracao: 2  Tempo atual: 25
+P2 MQ-0 Duracao: 0  Tempo atual: 27
+P10 MQ-0 Duracao: 0  Tempo atual: 29
+P16 MQ-0 Duracao: 3  Tempo atual: 31
+P16 MQ-0 Duracao: 1  Tempo atual: 33
+P16 MQ-0 Duracao: -1  Tempo atual: 34
+P6 MQ-1 Duracao: 0  Tempo atual: 36
+P8 MQ-1 Duracao: 3  Tempo atual: 38
+P8 MQ-1 Duracao: 1  Tempo atual: 40
+P8 MQ-1 Duracao: -1  Tempo atual: 41
+P19 MQ-1 Duracao: 7  Tempo atual: 43
+P19 MQ-1 Duracao: 5  Tempo atual: 45
+P19 MQ-1 Duracao: 3  Tempo atual: 47
+P19 MQ-1 Duracao: 1  Tempo atual: 49
+P19 MQ-1 Duracao: -1  Tempo atual: 50
+P11 MQ-1 Duracao: 1  Tempo atual: 52
+P11 MQ-1 Duracao: -1  Tempo atual: 53
+P15 MQ-1 Duracao: 0  Tempo atual: 55
+P13 MQ-1 Duracao: 1  Tempo atual: 57
+P13 MQ-1 Duracao: -1  Tempo atual: 58
+P4 MQ-1 Duracao: 3  Tempo atual: 60
+P4 MQ-1 Duracao: 1  Tempo atual: 62
+P4 MQ-1 Duracao: -1  Tempo atual: 63
+P7 MQ-1 Duracao: 5  Tempo atual: 65
+P7 MQ-1 Duracao: 3  Tempo atual: 67
+P7 MQ-1 Duracao: 1  Tempo atual: 69
+P7 MQ-1 Duracao: -1  Tempo atual: 70
+P12 MQ-1 Duracao: 6  Tempo atual: 72
+P12 MQ-1 Duracao: 4  Tempo atual: 74
+P12 MQ-1 Duracao: 2  Tempo atual: 76
+P12 MQ-1 Duracao: 0  Tempo atual: 78
+P17 MQ-1 Duracao: 3  Tempo atual: 80
+P17 MQ-1 Duracao: 1  Tempo atual: 82
+P17 MQ-1 Duracao: -1  Tempo atual: 83
+P18 MQ-1 Duracao: 3  Tempo atual: 85
+P18 MQ-1 Duracao: 1  Tempo atual: 87
+P18 MQ-1 Duracao: -1  Tempo atual: 88
+P0 MQ-2 Duracao: 1  Tempo atual: 90
+P0 MQ-2 Duracao: -1  Tempo atual: 91
+P5 MQ-2 Duracao: 6  Tempo atual: 93
+P5 MQ-2 Duracao: 4  Tempo atual: 95
+P5 MQ-2 Duracao: 2  Tempo atual: 97
+P5 MQ-2 Duracao: 0  Tempo atual: 99
+P9 MQ-2 Duracao: 9  Tempo atual: 101
+P9 MQ-2 Duracao: 7  Tempo atual: 103
+P9 MQ-2 Duracao: 5  Tempo atual: 105
+P9 MQ-2 Duracao: 3  Tempo atual: 107
+P9 MQ-2 Duracao: 1  Tempo atual: 109
+P9 MQ-2 Duracao: -1  Tempo atual: 110
+P3 MQ-2 Duracao: 3  Tempo atual: 112
+P3 MQ-2 Duracao: 1  Tempo atual: 114
+P3 MQ-2 Duracao: -1  Tempo atual: 115
+P14 MQ-2 Duracao: 9  Tempo atual: 117
+P14 MQ-2 Duracao: 7  Tempo atual: 119
+P14 MQ-2 Duracao: 5  Tempo atual: 121
+P14 MQ-2 Duracao: 3  Tempo atual: 123
+P14 MQ-2 Duracao: 1  Tempo atual: 125
+P14 MQ-2 Duracao: -1  Tempo atual: 126
+ Tempo atual: 126
